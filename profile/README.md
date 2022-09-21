@@ -21,7 +21,7 @@
 [<img
     src = 'https://github.com/EnterpriseSoftwareProjectsFoundation/HelloWorld/blob/Production/Assets/Header.png'
     align = left
-    height = 56
+    height = 54
 />][Hello World]
 
     Enterprise grade **Hello World** app built on the **[🦕 Deno][Deno]** runtime.
